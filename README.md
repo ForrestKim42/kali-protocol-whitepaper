@@ -6,6 +6,8 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Status: Whitepaper](https://img.shields.io/badge/Status-Whitepaper-blue.svg)](https://github.com/your-username/kali-protocol-whitepaper)
 
+  [View WhitePaper PDF](https://github.com/ForrestKim42/kali-protocol-whitepaper/blob/main/Project%20KALI_%20Re-embedding%20Finance%20into%20Society.pdf)
+
   ## Overview
 
   Project KALI addresses the fundamental challenge of global financial
